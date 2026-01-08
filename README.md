@@ -126,16 +126,6 @@ Faster response and resolution times increase satisfaction
 
 Ticket channel (Email, Chat, Phone) influences customer experience
 
-▶️ How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/customer-satisfaction-prediction.git
-
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-3️⃣ Run the Notebook
-
-Open Customer_Satisfaction_Prediction.ipynb in Google Colab or Jupyter Notebook and run all cells.
 
 📌 Future Enhancements
 
