@@ -1,9 +1,14 @@
 📊 Customer Satisfaction Prediction using Machine Learning
+
 📌 Project Overview
 
 Customer satisfaction plays a critical role in the success of any organization. This project focuses on building a machine learning model to predict whether a customer is Satisfied or Not Satisfied based on customer support ticket data.
 
 The project uses historical customer support tickets and applies data preprocessing, feature engineering, and supervised machine learning techniques to achieve high prediction accuracy.
+
+
+
+
 
 🎯 Objective
 
